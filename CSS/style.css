@@ -1,0 +1,28 @@
+@import url('menu.css');
+
+
+:root{
+    --color-primary-1: #F3ECEC;
+    --color-primary-2: #D7B1B8;
+    --color-primary-3: #A33A4A;
+    --color-primary-4: #680F1E;
+    --color-primary-5: #380A12;
+
+    --color-neutra-1: #1d1d1d;
+    --color-neutra-2: #fff;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}

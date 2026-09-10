@@ -1,0 +1,11 @@
+header{
+    width: 100%;
+    background-color: var(--color-primary-2);
+    padding: 28px 8%;
+}
+.navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
